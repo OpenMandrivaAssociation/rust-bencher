@@ -5,7 +5,7 @@
 
 Name:           rust-%{crate}
 Version:        0.1.5
-Release:        9
+Release:        10
 Summary:        Port of the libtest (unstable Rust) benchmark runner to Rust stable releases
 
 # Upstream license specification: MIT/Apache-2.0
